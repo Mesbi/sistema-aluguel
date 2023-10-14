@@ -1,4 +1,6 @@
 # TecaLuga
+![image](https://github.com/Mesbi/sistema-aluguel/assets/112419190/3a9371d9-156e-40c3-a2e7-9ce87333b97d)
+
 
 Este projeto é uma aplicação de uma loja online com funcionalidades completas, desenvolvida utilizando tecnologias modernas para proporcionar uma experiência de compra eficiente e agradável para os usuários. As principais tecnologias utilizadas são React, Next.js 13, TailwindCSS e integração com Stripe para processamento de pagamentos.
 
